@@ -12,7 +12,6 @@ In order to read the cheat sheets and **reference** them, use the project [offic
 ## Cheat Sheet Series Team
 
 ### Project Leaders
-
 - [Jim Manico](https://github.com/jmanico)
 - [Jakub Maćkowski](https://github.com/mackowski)
 
