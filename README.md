@@ -59,8 +59,6 @@ make serve  # Binds port 8000
 - **From 2014 to 2018:** [V1](CONTRIBUTOR-V1.md) - Initial version of the project hosted on the [OWASP WIKI](https://wiki.owasp.org).
 - **From 2019:** [V2](https://github.com/OWASP/CheatSheetSeries/graphs/contributors) - Hosted on [GitHub](https://github.com/OWASP/CheatSheetSeries).
 
-## Special thanks
-
 A special thank you to the following people for their help provided during the migration:
 
 - [Dominique Righetto](https://github.com/righettod): For his special leadership and guidance.
